@@ -59,6 +59,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+Console.WriteLine("please work !!!!!!");
 
 app.Run();
 
